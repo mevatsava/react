@@ -1,9 +1,11 @@
 import React from 'react'
-import Header from './Components/Header'
+// import Header from './Components/Header'
+import Main from './Components/to-do-list/Main'
 function App() {
   return (
     <div>
-      <Header />
+      {/* <Header /> */}
+      <Main />
     </div>
   )
 }
